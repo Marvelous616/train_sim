@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Station A",
+    "pos": [0, 200],
+    "size": [50, 200],
+    "color": [100, 150, 200],
+    "opacity": 128
+  },
+  {
+    "name": "Station B",
+    "pos": [275, 200],
+    "size": [100, 250],
+    "color": [120, 180, 120],
+    "opacity": 100
+  },
+  {
+    "name": "Station C",
+    "pos": [875, 200],
+    "size": [100, 250],
+    "color": [220, 180, 100],
+    "opacity": 150
+  },
+  {
+    "name": "Station D",
+    "pos": [1200, 300],
+    "size": [120, 200],
+    "color": [210, 130, 130],
+    "opacity": 200
+  }
+]
+
