@@ -1,0 +1,6 @@
+{
+  "station":{"color":[100,140,255],"radius":12},
+  "turn":{"color":[180,180,180],"radius":8},
+  "junction":{"color":[255,200,50],"radius":10},
+  "default":{"color":[120,120,120],"radius":8}
+}
